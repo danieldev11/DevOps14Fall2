@@ -1,0 +1,1 @@
+This is the first line added on conflict_1 barnch for testing git conflict
